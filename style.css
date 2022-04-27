@@ -1,0 +1,17 @@
+body{
+    background:navy;
+    color:aquamarine;
+}
+
+#heading{
+    background-color:aquamarine;
+    color:navy;
+    width:95%;
+    margin-bottom: 50px; 
+    font-size: 50px;
+}
+
+#camera{
+    border: 5px ridge navy;
+    
+}
